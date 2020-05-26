@@ -53,7 +53,7 @@ Bio🅱️: {}
 DC ID🆔: {}
 Number of PPs🅿️: {}
 Restricted? 😠: {}
-Verified gey☑️: {}
+Verified guy☑️: {}
 Bot(nub)🅱️: {}
 Groups in Common with this guy👥: {}
 By🤴: @surajit1
