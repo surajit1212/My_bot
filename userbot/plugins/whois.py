@@ -46,16 +46,17 @@ async def _(event):
     except Exception as e:
         dc_id = "Need a Profile Picture to check **this**"
         location = str(e)
-    caption = """Extracted Userdata From Anubis' DATABASE
-ID: <code>{}</code>
-Rendi's Name: <a href='tg://user?id={}'>{}</a>
-Bio: {}
-DC ID: {}
-Number of PPs: {}
-Restricted? : {}
-Verified gey: {}
-Bot(nub): {}
-Groups in Common with this gey: {}
+    caption = """Extracted Userdata From Telegram' DATABASE
+ID🆔: <code>{}</code>
+Your Name👤: <a href='tg://user?id={}'>{}</a>
+Bio🅱️: {}
+DC ID🆔: {}
+Number of PPs🅿️: {}
+Restricted? 😠: {}
+Verified gey☑️: {}
+Bot(nub)🅱️: {}
+Groups in Common with this guy👥: {}
+By🤴: {DEFULTUSER}
 """.format(
         user_id,
         user_id,
