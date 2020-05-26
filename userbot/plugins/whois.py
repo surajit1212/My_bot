@@ -56,7 +56,7 @@ Restricted? 😠: {}
 Verified gey☑️: {}
 Bot(nub)🅱️: {}
 Groups in Common with this guy👥: {}
-By🤴: {DEFULTUSER}
+By🤴: @surajit1
 """.format(
         user_id,
         user_id,
